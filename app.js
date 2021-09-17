@@ -1,1 +1,1 @@
-"this is an app"
+"this is an app, isn't it?"
